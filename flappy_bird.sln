@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "flappy_bird", "flappy_bird\flappy_bird.shproj", "{91870315-1B2C-4BA2-8815-3D532F1F6772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flappy_bird.Desktop", "flappy_bird.Desktop\flappy_bird.Desktop.csproj", "{78C2FAA9-6D9E-4BDC-A4DE-8C426C200901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+{91870315-1B2C-4BA2-8815-3D532F1F6772}.Debug|AnyCPU.ActiveCfg = Debug
+{91870315-1B2C-4BA2-8815-3D532F1F6772}.Debug|AnyCPU.Build.0 = Debug
+{91870315-1B2C-4BA2-8815-3D532F1F6772}.Release|AnyCPU.ActiveCfg = Release
+{91870315-1B2C-4BA2-8815-3D532F1F6772}.Release|AnyCPU.Build.0 = Release
+{78C2FAA9-6D9E-4BDC-A4DE-8C426C200901}.Debug|AnyCPU.ActiveCfg = Debug
+{78C2FAA9-6D9E-4BDC-A4DE-8C426C200901}.Debug|AnyCPU.Build.0 = Debug
+{78C2FAA9-6D9E-4BDC-A4DE-8C426C200901}.Release|AnyCPU.ActiveCfg = Release
+{78C2FAA9-6D9E-4BDC-A4DE-8C426C200901}.Release|AnyCPU.Build.0 = Release
+	EndGlobalSection
+EndGlobal
